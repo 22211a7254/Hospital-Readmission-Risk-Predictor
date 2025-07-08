@@ -1,5 +1,5 @@
 # Hospital-Readmission-Risk-Predictor
-#  Hospital Readmission Risk Predictor
+
 
 This project predicts the likelihood of a patient being readmitted to the hospital within 30 days after discharge. It uses real hospital records and machine learning models to identify high-risk patients who may need follow-up care.
 
